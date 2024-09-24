@@ -24,7 +24,8 @@
     height: 28px;
 }
 .member_btn{
-border-radius: 40px;
+    border-radius: 40px;
+    border: none;
     width: 232px;
     height: 70px;
     font-weight: 700;
